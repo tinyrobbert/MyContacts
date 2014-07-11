@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="app_name">个人通讯录</string>
+<string name="company">公司:</string>
+<string name="name">姓名:</string>
+<string name="mobile">手机:</string>
+<string name="email">邮箱:</string>
+<string name="save">保存</string>
+<string name="cancel">取消</string>
+<string name="contact_edit">修改</string>
+<string name="contact_create">添加</string>
+<string name="error_msg">程序错误！</string>
+<string name="menu_revert">返回</string>
+<string name="menu_delete">删除</string>
+<string name="menu_discard">取消</string>
+<string name="menu_add">添加</string>
+<string name="menu_edit">编辑</string>
+<string name="menu_search">查找</string>
+<string name="phone_number">手机</string>
+<string name="mail">电子邮件</string>
+<string name="im">即时信息</string>
+<string name ="address">地址</string>
+    <string name="call_home">"住宅电话"</string>
+    <string name="call_mobile">"手机"</string>
+    <string name="call_work">"单位"</string>
+    <string name="call_fax_work">"单位传真"</string>
+    <string name="call_fax_home">"住宅传真"</string>
+    <string name="call_pager">"寻呼机"</string>
+    <string name="call_other">""</string>
+    <string name="call_callback">"回拨号码"</string>
+    <string name="call_car">"车载电话"</string>
+    <string name="call_company_main">"公司总机"</string>
+    <string name="call_isdn">" ISDN"</string>
+    <string name="call_main">"总机"</string>
+    <string name="call_other_fax">"传真号码"</string>
+    <string name="call_radio">"无线装置"</string>
+    <string name="call_telex">"电报"</string>
+    <string name="call_tty_tdd">" TTY/TDD"</string>
+    <string name="call_work_mobile">"单位手机"</string>
+    <string name="call_work_pager">"单位寻呼机"</string>
+    <string name="call_mms">"彩信号码"</string>
+    <string name="email_home">"住宅邮箱"</string>
+    <string name="email_mobile">"手机邮箱"</string>
+    <string name="email_work">"单位邮箱"</string>
+    <string name="email_other">"电子邮件"</string>
+    <string name="chat_aim">" AIM "</string>
+    <string name="chat_msn">"Windows Live "</string>
+    <string name="chat_yahoo">"雅虎"</string>
+    <string name="chat_skype">" Skype"</string>
+    <string name="chat_qq">" QQ "</string>
+    <string name="chat_gtalk">" Google Talk "</string>
+    <string name="chat_icq">"ICQ "</string>
+    <string name="chat_jabber">" Jabber "</string>
+    <string name="add">增加</string>
+<!-- Im的类型 -->
+    <string-array name="imTypes">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+        <item>Custom</item>
+    </string-array>
+    
+    <!-- Phone的类型 -->
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+        <item>Callback</item>
+        <item>Car</item>
+        <item>Company main</item>
+        <item>ISDN</item>
+        <item>Main</item>
+        <item>Other Fax</item>
+        <item>Radio</item>
+        <item>Telex</item>
+        <item>TTY TDD</item>
+        <item>Work Mobile</item>
+        <item>Work Pager</item>
+        <item>Assistant</item>
+         <item>MMS</item>
+    </string-array>
+
+    <!-- Email的类型 -->
+    <string-array name="emailTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Mobile</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
